@@ -38,26 +38,3 @@ Explore complex relationships in the data, such as:
 * Hit rate differences that lead to a win probability of 95% or higher.
 * Comparing pitchers based on trade status, using metrics like strikeout rates and pitch statistics.
 * Finding players with the highest batting averages per game in the top-performing teams of 2021.
-
-
-## Project Structure
-|-- data/
-|   |-- games.csv
-|   |-- innings.csv
-|   |-- hitters.csv
-|   |-- pitchers.csv
-|   |-- pitches.csv
-|   |-- players.csv
-|-- sql/
-|   |-- create_tables.sql
-|   |-- load_data.sql
-|   |-- queries/
-|       |-- 1.sql
-|       |-- 2.sql
-|       |-- ...
-|       |-- 12.sql
-|-- reports/
-|   |-- screenshots/
-|   |-- analysis.pdf
-|-- README.md
-
