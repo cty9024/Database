@@ -6,7 +6,7 @@
 ---
 
 ## Introduction
-The extendible hash table was developed to demonstrate understanding of database indexing concepts and practical implementation. The goal of this project is to implement a hash table with extendible capabilities, supporting insertion, querying, and deletion operations while maintaining both global and local depths.
+This project demonstrates the implementation of an extendible hash table, showcasing concepts of database indexing. The goal is to implement a hash table that dynamically adjusts its structure to support efficient insertion, querying, and deletion operations, while maintaining accurate global and *local depths*.
 ## Tasks
 The implementation focuses on the following components:
 1. `hash.h`:
