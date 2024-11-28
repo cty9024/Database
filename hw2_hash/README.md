@@ -9,10 +9,10 @@
 The extendible hash table was developed to demonstrate understanding of database indexing concepts and practical implementation. The goal of this project is to implement a hash table with extendible capabilities, supporting insertion, querying, and deletion operations while maintaining both global and local depths.
 ## Tasks
 The implementation focuses on the following components:
-1. 'hash.h':
-* The header file defining the structure of the hash table class.
+1. `hash.h`:
+   * The header file defining the structure of the hash table class.
 2. 'hash.cpp':
-* Implements the hash table class, including methods for constructing, querying, removing keys, and clearing memory.
+   * Implements the hash table class, including methods for constructing, querying, removing keys, and clearing memory.
 ### Implemented Methods
 * 'hash_table()'  
 Constructor to initialize the hash table with fixed table size and bucket size, and to insert key-value pairs while maintaining global and local depths.
