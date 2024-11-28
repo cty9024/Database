@@ -1,7 +1,7 @@
 # Final Project: Kaohsiung Tourism Web Application
 
 **Course:** Introduction to Database Systems  
-**Instructor:** Prof. Wen-Chih Peng
+**Instructor:** Prof. Wen-Chih Peng  
 **Team Members:** Ting-Yun Chen, Shu-Hao Chang, Chia-Ni Ho
 
 --- 
@@ -10,13 +10,13 @@
 This project aims to develop a user-friendly web application for exploring Kaohsiung's activities, attractions, parking facilities, and accommodations. Users can search by **date** or **region**, accessing comprehensive information to enhance their travel experience.
 
 ## Database 
-### Database Design
+### Design
 We used **MySQL** as the database system and implemented dynamic updates using government APIs. Key update mechanisms include:
 * **Parking/Hotels:** Records are updated based on the Primary Key.
 * **Attractions:** New entries are added if the name does not already exist.
 * **Events:** Entries with past end dates are removed, and new data is added.
 * **Comments:** Existing comments are replaced if duplicates (same name and user) are found.
-### Database Connection
+### Connection
 The application connects to the MySQL database via PHP, using the `mysqli_query()` function. Robust exception handling ensures secure and error-free interactions.
 
 ## Application
