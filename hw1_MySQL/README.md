@@ -1,6 +1,6 @@
 # Homework 1: SQL Tasks in MySQL
 
-**Course:** Introduction to Database Systems
+**Course:** Introduction to Database Systems  
 **Instructor:** Prof. Wen-Chih Peng
 
 ---
