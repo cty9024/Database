@@ -1,6 +1,6 @@
 # Database
-**Course:** Introduction to Database Systems
-**Instructor:** Prof. Wen-Chih Peng
+**Course:** Introduction to Database Systems  
+**Instructor:** Prof. Wen-Chih Peng  
 **Semester:** Academic Year 2022, Second Semester (Feb. 2023 - Jun. 2023)  
 
 ## Repository Contents
